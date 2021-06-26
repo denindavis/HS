@@ -24,8 +24,8 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.0607971928619957,
-        "pitch": 0.022548445108000692,
+        "yaw": 0.05973952159039442,
+        "pitch": 0.049142348778868694,
         "fov": 1.2724558970694075
       },
       "linkHotspots": [
@@ -78,29 +78,59 @@ var APP_DATA = {
         {
           "yaw": -0.644830310013468,
           "pitch": 0.3202747459458948,
-          "title": "Title",
-          "text": "SINK"
+          "title": "KITCHEN SINK",
+          "text": "Double Bowl with Drainboard"
         },
         {
           "yaw": 0.2582939332702203,
           "pitch": 0.543998074106737,
-          "title": "Title",
-          "text": "JUICER"
+          "title": "COFFEE MAKER",
+          "text": "Coffee making machiene&nbsp;"
         },
         {
           "yaw": 0.9003458032338596,
           "pitch": 0.3509664592763855,
-          "title": "Title",
-          "text": "DOUBLE DOOR FRIDGE"
+          "title": "Fridge",
+          "text": "Double Door&nbsp;"
+        },
+        {
+          "yaw": -1.983708211377671,
+          "pitch": 0.2943468931027198,
+          "title": "COOKING RANGE",
+          "text": "6 Burner Cooking Range"
+        },
+        {
+          "yaw": -1.0874877243201002,
+          "pitch": 0.27666407614808186,
+          "title": "WELL",
+          "text": "Well Accessible From Inside"
+        },
+        {
+          "yaw": 2.7786033439862345,
+          "pitch": 0.016606941061102276,
+          "title": "DOOR",
+          "text": "Door of Store Room"
+        },
+        {
+          "yaw": 1.976281245644735,
+          "pitch": 0.18369057225494068,
+          "title": "DOOR",
+          "text": "Door to Dining Area"
+        },
+        {
+          "yaw": -3.041647280460401,
+          "pitch": 0.11937614845287925,
+          "title": "DOOR",
+          "text": "Exit Door"
         }
       ]
     }
   ],
   "name": "Project Title",
   "settings": {
-    "mouseViewMode": "drag",
+    "mouseViewMode": "qtvr",
     "autorotateEnabled": false,
     "fullscreenButton": true,
-    "viewControlButtons": true
+    "viewControlButtons": false
   }
 };
